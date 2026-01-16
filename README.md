@@ -9,8 +9,8 @@ A neural network built **from scratch using NumPy** for detecting skin cancer fr
 ![NumPy](https://img.shields.io/badge/NumPy-Only-green.svg)
 
 ## 👥 Team Members
-- **[Your Name]** - [Registration Number]
-- **Aiman Batool** - [Registration Number]
+- **Muhammad Shan** - SU92-MSAIW-F25-033
+- **Aiman Batool** - SU92-MSAIW-F25-018
 
 ## 📋 Project Overview
 
