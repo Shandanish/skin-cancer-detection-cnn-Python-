@@ -149,7 +149,7 @@ Bash
 pip install numpy Pillow matplotlib
 python main.py
 
-
+data: add dataset exploration and class distribution analysis
 
 
 
