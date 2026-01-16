@@ -101,6 +101,9 @@ python main.py
 🧠 Model Architecture
 text
 
+
+
+
 Input (64×64×3 = 12,288)
         ↓
 Hidden Layer 1 (128 neurons, ReLU)
@@ -151,6 +154,6 @@ python main.py
 
 data: add dataset exploration and class distribution analysis
 
-
+data: remove corrupted and low-quality images
 
 Push Colab Notebook / Code to GitHub 
